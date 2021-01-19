@@ -6995,7 +6995,7 @@ embed, iframe, object {
     padding-bottom: 4px;
 }
 
-.hover_blurb img:hover {
+.hover_blurb div:hover {
     -webkit-filter: grayscale(50%);
     filter: grayscale(50%);
 }
